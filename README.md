@@ -152,5 +152,5 @@ Before moving into Cloud Infrastructure and DevOps, I spent 10 years at Tata Con
 
 ## Let's Connect
 
-- LinkedIn
-- GitHub
+- [LinkedIn](https://www.linkedin.com/in/swamyvaditya/)
+- [GitHub](https://github.com/SwamyVaditya )
