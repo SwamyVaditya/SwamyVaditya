@@ -4,10 +4,6 @@
 
 Building reliable cloud infrastructure through Infrastructure as Code, automation, Linux, Kubernetes, GitOps, and modern DevOps practices.
 
-AWS • Terraform • Infrastructure as Code • Linux • CI/CD • Kubernetes • Platform Engineering • Site Reliability Engineering
-
----
-
 ## About Me
 
 I am a Cloud Infrastructure & DevOps Engineer with 15+ years of IT experience spanning enterprise software engineering, cloud consulting, infrastructure automation, cloud modernization, and production support.
@@ -81,18 +77,6 @@ The repositories below showcase my work and ongoing learning in Cloud Infrastruc
 Before moving into Cloud Infrastructure and DevOps, I spent 10 years at Tata Consultancy Services (TCS) developing and supporting mission-critical enterprise applications for global organizations.
 
 That enterprise engineering foundation continues to influence my approach to reliability, automation, operational excellence, and production systems.
-
-
-My primary areas of interest include:
-
-- Cloud Infrastructure
-- Amazon Web Services (AWS)
-- Infrastructure as Code (Terraform)
-- DevOps & CI/CD
-- Linux Administration
-- Kubernetes & GitOps
-- Platform Engineering
-- Site Reliability Engineering (SRE)
 
 ---
 
