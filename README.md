@@ -62,15 +62,18 @@ The repositories below showcase my work and ongoing learning in Cloud Infrastruc
 | cloud-automation *(planned)* | AWS automation, CI/CD, and serverless solutions |
 
 
-## Currently Learning
+## Current Focus
 
+- Cloud Infrastructure
+- Infrastructure as Code
+- Kubernetes & GitOps
 - Platform Engineering
-- Kubernetes
-- GitOps
-- eBPF
-- OpenTelemetry
 - Site Reliability Engineering (SRE)
+- Observability
 
+## Exploring
+
+- eBPF
 
 ## Professional Background
 
