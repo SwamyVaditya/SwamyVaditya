@@ -56,10 +56,10 @@ The repositories below showcase my work and ongoing learning in Cloud Infrastruc
 
 | Repository | Focus |
 |------------|-------|
-| aiops-learning | AIOps, observability, OpenTelemetry, and platform engineering experiments |
-| kubernetes-learning *(planned)* | Kubernetes, Helm, Kustomize, and GitOps |
-| terraform-aws *(planned)* | Infrastructure as Code with Terraform and AWS |
-| cloud-automation *(planned)* | AWS automation, CI/CD, and serverless solutions |
+| k3d-observability-lab | Kubernetes, Helm, Argo CD, GitOps, Infrastructure as Code with Terraform, SRE, observability, LGTM stack, OpenTelemetry |
+| z-bridge-mainframe-devops | Automated Git-to-z/OS Mainframe CI/CD Pipeline simulating IBM DBB dependency tracking, Zowe API interactions, and Ansible-based deployment workflows |
+| gitops-platform-demo *(progress)* | Kubernetes, Argo CD, Kustomize, GitOps, Monitoring and Obsrervabilty, Prometheus, Grafana, and platform engineering experiments |
+| aiops-learning *(planned)* | AIOps, observability, OpenTelemetry, and platform engineering experiments |
 
 
 ## Current Focus
